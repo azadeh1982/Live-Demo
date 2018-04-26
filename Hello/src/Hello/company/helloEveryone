@@ -1,0 +1,7 @@
+    public static void helloEveryone () {
+        String [] name = {"Linda", "John", "Maya", "Nerine", "Gary"};
+        for (String nm: name) {
+            System.out.println("Hello there " + nm);
+        }
+    }
+
